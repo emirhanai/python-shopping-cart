@@ -15,4 +15,4 @@ I hope it has been a useful study for you!
 
 Stay healthy, bye bye!
 
-<a href=“https://emirhanbulut.com.tr/”>Emirhan BULUT</a> founder of <a href=“https://turkiyeyapayzeka.com/”>Turkey Artificial Intelligence</a>
+<a rel=”dofollow  href=”https://emirhanbulut.com.tr”>Emirhan BULUT</a> founder of <a rel=”dofollow  href=”https://turkiyeyapayzeka.com”>Turkey Artificial Intelligence</a>
