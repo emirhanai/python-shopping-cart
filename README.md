@@ -15,7 +15,7 @@ I hope it has been a useful study for you!
 
 Stay healthy, bye bye!
 
-[emirhan bulut]Emirhan BULUT[emirhan bulut] founder of <a rel=”dofollow  [türkiye yapay zeka]Turkey Artificial Intelligence[türkiye yapay zeka]
+[Emirhan BULUT] founder of  [Turkey Artificial Intelligence]
 
-[türkiye yapay zeka]: https://turkiyeyapayzeka.com
-[emirhan bulut]: https://emirhanbulut.com.tr
+[Turkey Artificial Intelligence]: https://turkiyeyapayzeka.com
+[Emirhan BULUT]: https://emirhanbulut.com.tr
